@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+
+# Virtual environment
+venv/
+djvenv/
+env/
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Ignore local environment settings
+.env
+*.env
+
+# Ignore database files
+*.sqlite3
+db.sqlite3
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
